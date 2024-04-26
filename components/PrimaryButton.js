@@ -30,13 +30,14 @@ const styles = StyleSheet.create({
     overflow: "hidden",
   },
   buttonInnercontainer: {
-    backgroundColor: "#ffdde3",
-    paddingVertical: 16,
+    backgroundColor: "#c1121f",
+    paddingHorizontal: 16,
+    paddingVertical: 8,
     alignItems: "center",
     elevation: 4,
   },
   buttonText: {
-    color: "#997379",
+    color: "#fdf0d5",
     fontSize: 16,
     fontWeight: "bold",
     textAlign: "center",
